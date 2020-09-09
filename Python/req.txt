@@ -1,0 +1,6 @@
+opencv-python
+praw
+csv
+textwrap
+numpy
+selenium
